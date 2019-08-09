@@ -4,3 +4,4 @@
 
 #### python函数设计规范
 - 单一职责（Single responsibility）
+- partial构造新的函数
