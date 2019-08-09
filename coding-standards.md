@@ -21,6 +21,6 @@
 
 ###### 参考资料:
 
-[Google开源风格指南]（https://zh-google-styleguide.readthedocs.io/en/latest/contents/）
+[Google开源风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/contents/)
 
-[python工匠]（https://github.com/piglei/one-python-craftsman）
+[python工匠](https://github.com/piglei/one-python-craftsman)
