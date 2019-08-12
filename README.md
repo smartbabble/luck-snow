@@ -14,7 +14,7 @@
   
 ## 内容 
 
-| :briefcase: | :jack_o_lantern: | :book: | :beginner: | :open_file_folder: | :clipboard:| :jack_o_lantern: | :mailbox_with_no_mail:|
+| :briefcase: | :jack_o_lantern: | :book: | :beginner: | :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|
 | --------------------- |  ---------------------  | --------------------- |  ---------------------  |  ---------------------  |  ------------|  ------------ |  ------------|  
 | [软件过程] | [devops]| [开发语言] | [数据库] | [协议] | [算法] | [生态] |[DFX] |
 
