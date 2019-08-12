@@ -17,7 +17,8 @@
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
 
-#### 文档支持 
+## 文档支持 
 
-| ------- | ----- | ------------ | ------ | 
-| [编码规范](coding-standards.md)| [readdoc](https://readthedocs.org/accounts/login/) | [gitbook](https://www.gitbook.com/) | [徽标](http://shields.io/) | 
+| :green_book: | :blue_book: | :orange_book: | :notebook: | :notebook_with_decorative_cover: | :closed_book: |:octocat:|
+| ------- | ----- | ------------ | ------ | ------ | ------ |------ |
+| [编码规范](coding-standards.md)| [readdoc](https://readthedocs.org/accounts/login/) | [gitbook](https://www.gitbook.com/) | [徽标](http://shields.io/) [链接](https://lpd-ios.github.io/2017/05/03/GitHub-Badge-Introduction/)| [语法格式](https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)| [markdown]()| [表情符号](https://www.webfx.com/tools/emoji-cheat-sheet/)|
