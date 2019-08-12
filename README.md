@@ -1,5 +1,5 @@
 # luck-snow
-create new knowledge
+Learn new knowledge,turn knowledge into skill,rich spirit.
 
 ## 简介
 
