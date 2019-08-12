@@ -17,9 +17,7 @@
 | :squirrel: | :jack_o_lantern: | :beer: | :fish_cake: | :octocat: |
 | ------- | ----- | ------------ | ------ | --------- |
 
+#### 文档支持 
 
-#### [编码规范](coding-standards.md)
-
-#### [制作readdoc](https://readthedocs.org/accounts/login/)
-
-#### [制作gitbook](https://www.gitbook.com/)
+| ------- | ----- | ------------ | ------ | 
+| [编码规范](coding-standards.md)| [readdoc](https://readthedocs.org/accounts/login/) | [gitbook](https://www.gitbook.com/) | [徽标](http://shields.io/) | 
