@@ -16,3 +16,7 @@
 [《javascript权威指南》](#)
 
 [《Learning jQuery》](#)
+
+[《JavaScript语言精粹》](#)
+
+[《响应式Web设计》](#)
