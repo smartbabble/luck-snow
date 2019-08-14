@@ -27,19 +27,19 @@ UTF-8、GBK
     - 特殊字符（转义字符）
     - 一些小标签/小标记
     - 超链接
-      - 外部链接 <a href= .../>
-      - 锚链接 <a href="#name1"/>
+      - 外部链接 href=
+      - 锚链接 href="#name1"
       - 邮件链接
       - target/href/title/name
     - src属性
       - 相对路径
       - 绝对路径
-    - 列表标签 "<ul> <li> <OL> <dl>"
+    - 列表标签 ul li OL dl
     - 表格标签
-    - 框架标签及内嵌框架 <frameset>
-    - 表单标签 <form>
-    - 多媒体标签 <bgsound> <embed> <object>
-    - 滚动字幕标签 <marquee>
+    - 框架标签及内嵌框架 frameset
+    - 表单标签 form
+    - 多媒体标签 bgsound embed object
+    - 滚动字幕标签 marquee
     
 ##### HTML的规范:
   - 正确的嵌套
