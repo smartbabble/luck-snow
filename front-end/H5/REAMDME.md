@@ -27,8 +27,8 @@ UTF-8、GBK
     - 特殊字符（转义字符）
     - 一些小标签/小标记
     - 超链接
-      - 外部链接 <a href= ...
-      - 锚链接 <a href="#name1">
+      - 外部链接 <a href= .../>
+      - 锚链接 <a href="#name1"/>
       - 邮件链接
       - target/href/title/name
     - src属性
