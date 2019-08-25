@@ -14,17 +14,17 @@
   
 ## 内容 
 
-| :briefcase: | :jack_o_lantern: | :book: | :beginner: |:earth_africa:| :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|
+| :briefcase: | :jack_o_lantern: | :book: | :beginner: |:earth_africa:| :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|:chestnut: |
 | --------------------- |  ---------------------  | --------------------- |  ---------------------  |  ---------------------  |  ------------|  ------------ |  ------------|   ------------| 
-| **软件工程** | **devops** | **开发语言** | **数据库** | **web** | **协议** | **算法** | **生态** |**DFX** |
-| 敏捷开发 | 需求| python |mysql|  js|TCP/IP  | |  | |
-| 测试驱动 | 仓库 | java | redis |  css| HTTP | |  | |
-| 建模 | 构建 |  go| MongoDB |  前端框架| SMTP | |  | |
-| 质量管理 | 门禁 |  |  |文档标准|  | |  | |
-| 项目管理| 部署 |  |  |  |  | |  | |
-| | 变更 |  |  |  |  | |  | |
-| | 发布 |  |  |  |  | |  | |
-| | 监控 |  |  |  |  | |  | |
+| **软件工程** | **devops** | **开发语言** | **数据库** | **web** | **协议** | **算法** | **生态** |**DFX** |**其他** |
+| 敏捷开发 | 需求| python |mysql|  js|TCP/IP  | |  | |PMP |
+| 测试驱动 | 仓库 | java | redis |  css| HTTP | |  | | |
+| 建模 | 构建 |  go| MongoDB |  前端框架| SMTP | |  | | |
+| 质量管理 | 门禁 |  |  |文档标准|  | |  | | |
+| 项目管理| 部署 |  |  |  |  | |  | | |
+| | 变更 |  |  |  |  | |  | | |
+| | 发布 |  |  |  |  | |  | | |
+| | 监控 |  |  |  |  | |  | | |
 
 ## 文档支持 
 
