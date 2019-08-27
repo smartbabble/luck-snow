@@ -34,7 +34,20 @@ Jenkinsfile
 ```
 ### 常用功能
 ```
-源码管理、构建触发器、
+源码管理
+  - Github
+  - GitLab
+  - Gerrit
+  - Subversion
+构建触发器
+  - crontab时间
+  - 实现Gerrit event 触发Jenkins构建
+  - Pull requests触发Jenkins构建
+  - Merge Request等相关事件触发Jenkins构建
+  - 支持在Jira issue的状态等变化时触发Jenkins构建
+构建通知
+  - Email Extension
+  - Mailer
 ```
 
 ### 配置
@@ -98,12 +111,42 @@ Jenkinsfile
   ```
   授权策略及其配置
   访问控制
+    - LDAP
     - 安全域即“认证”
     - 授权配置“户和/或组控制”
     - 矩阵授权策略
   跨站点请求伪造
     - 检查CSRF令牌
   ```
+  
+### 应用场景
+```
+  持续、自动地构建/测试软件项目
+  监控一些定时执行的任务
+  
+  案例：
+    -  企业级Jenkins之数据备份方案
+       Jenkins基于文件系统的,配置和数据都存储在文件系统上,Jenkins Home目录的数据备份和恢复方案是Jenkins运维保障.
+        - Jenkins Backup 插件进行备份
+        - 基于Rsync工具将 Jenkins 数据同步到远程服务器进行备份
+        - 使用Git工具时,通过.gitignore文件过滤掉无须备份的文件
+    - 企业级Jenkins之精细化权限管理
+      Role Strategy Plugin插件维护者、配置管理员、研发/测试用户的权限隔离与控制
+      集成LDAP实现用户统一认证与用户组管理
+      Job 规范化管理
+    - 企业级Jenkins之精准化通知
+      邮件发送
+      日志解析
+      快速定位问题，通知问题当事人
+    - 资源消耗较大
+      持续集成、质量门等实践
+      实现多层质量门禁
+      包括提交验证
+      代码准入
+      制品升级等
+      将代码提交到Gerrit中-----手动执行预编译任务------冒烟测试-----自动化预编译结果也会回写到Gerrit中以便进行Code Review-------持续构建每天会运行12次------推送到生产制品库-------可用性测试
+      
+```
 ### 相关词汇
   
   ```
