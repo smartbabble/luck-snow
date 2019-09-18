@@ -10,8 +10,6 @@
   - **优秀的编程技巧**💻
   - **体会编程的乐趣**🎮 
   - **完善知识认知体系**📚 
-  - **感受大牛的思想高度** 
-  
 ## 内容 
 
 | :briefcase: | :jack_o_lantern: | :book: | :beginner: |:earth_africa:| :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|:chestnut: |
