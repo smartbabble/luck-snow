@@ -9,7 +9,7 @@
   - **不断拓展知识维度**📚
   - **积累高效编程技巧**💻
   - **体会编程的乐趣**🎮 
-  - **完善更多认知体系**📚 
+  - **完善多维度认知**📚 
 ## 内容 
 
 | :briefcase: | :jack_o_lantern: | :book: | :beginner: |:earth_africa:| :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|:chestnut: |
