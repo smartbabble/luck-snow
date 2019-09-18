@@ -17,9 +17,9 @@
 | :briefcase: | :jack_o_lantern: | :book: | :beginner: |:earth_africa:| :open_file_folder: | :clipboard:| :trident: | :mailbox_with_no_mail:|:chestnut: |
 | --------------------- |  ---------------------  | --------------------- |  ---------------------  |  ---------------------  |  ------------|  ------------ |  ------------|   ------------| ------------| 
 | **软件工程** | **devops** | **开发语言** | **数据库** | **web** | **协议** | **算法** | **生态** |**DFX** |**其他** |
-| 敏捷开发 | 需求| python |mysql|  js|TCP/IP  | |  |性能 |微服务 |
-| 测试驱动 | 仓库 | java | redis |  css| HTTP | |  |Qps |分布式 |
-| 建模 | 构建 |  go| MongoDB |  前端框架| SMTP | |  |SLA |云计算|
+| 敏捷开发 | 需求| python |mysql|  js|TCP/IP  | | docker |性能 |微服务 |
+| 测试驱动 | 仓库 | java | redis |  css| HTTP | | 虚环境 |Qps |分布式 |
+| 建模 | 构建 |  go| MongoDB |  前端框架| SMTP | | k8s |SLA |云计算|
 | 质量管理 | 门禁 |  |  |文档标准|  | |  | |高并发 |
 | 项目管理| 部署 |  |  |  |  | |  | | |
 | PMP| 变更 |  |  |  |  | |  | | |
